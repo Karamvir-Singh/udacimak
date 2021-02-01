@@ -1,3 +1,24 @@
+## Great thanks to Udacimak 
+First I would like to thank the creators of this tool. It is truly amazing and it is a shame that it is no longer maintained properly. I implemented the fix that has been suggested by @mssrivatsa [here](https://github.com/udacimak/udacimak/issues/183#issuecomment-760882200). However, this will require you to build the tool from source. 
+
+## Quick instructions
+
+``shell
+#clone package
+git clone https://github.com/Hussain-Alsalman/udacimak.git
+
+#build 
+npm run build 
+
+#pack 
+npm pack 
+
+#install 
+
+npm i -g udacimak-1.6.6.tgz
+
+```
+  
 # Udacimak - A Udacity Nanodegree Downloader
 
 

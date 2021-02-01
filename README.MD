@@ -3,7 +3,7 @@ First I would like to thank the creators of this tool. It is truly amazing and i
 
 ## Quick instructions
 
-``shell
+```shell
 #clone package
 git clone https://github.com/Hussain-Alsalman/udacimak.git
 

@@ -7,13 +7,16 @@ First I would like to thank the creators of this tool. It is truly amazing and i
 #clone package
 git clone https://github.com/Hussain-Alsalman/udacimak.git
 
-#build 
+#Install Dependencies 
+npm install 
+
+#Build the Lib files
 npm run build 
 
-#pack 
+#Pack 
 npm pack 
 
-#install 
+#Install as cli tool 
 
 npm i -g udacimak-1.6.6.tgz
 

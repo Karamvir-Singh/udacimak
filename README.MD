@@ -1,3 +1,5 @@
+## Extra Thanks for @Hussain-Alsalman for fixing a major "error". Too bad it has not been merged yet. I have implemented another version of the download and render function, which does not download whole videos to the disk, but instead only embeds youtube videos into the generated html frontend. You get the same udacimak experience, but without worrying about the Big Gigs of disk space and the day long download times. Every Nanodegree download is now complete in about 5 minutes and takes no more than 40 MBs on your disk.
+
 ## Great thanks to Udacimak 
 First I would like to thank the creators of this tool. It is truly amazing and it is a shame that it is no longer maintained properly. I implemented the fix that has been suggested by @mssrivatsa [here](https://github.com/udacimak/udacimak/issues/183#issuecomment-760882200). However, this will require you to build the tool from source. 
 
